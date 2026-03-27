@@ -1,14 +1,18 @@
-# BME-Introduction-Project
+# Project Introduction Bme
 
-An introductory repository providing an overview of Biomedical Engineering (BME) concepts, industry trends, and fundamental technologies. Used for orientation and project planning.
+Introductory resources and notes for Biomedical Engineering students.
 
-## ┬┐ Project Highlights
-- **BME Overview**: Fundamental principles and clinical applications.
-- **Technology Roadmap**: Analysis of emerging medical devices.
-- **Reference Material**: Curated list of essential BME resources.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `docs/`: Introductory slides and theoretical documentation.
+## Tech Stack
+- **Primary**: Bme
+- **Domain**: Education
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
